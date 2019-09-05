@@ -45,6 +45,6 @@
     "ec2"
   ],
   "dependencies": {
-    "aws-sdk": "^2.417.0"
+    "aws-sdk": "^2.524.0"
   }
 }
